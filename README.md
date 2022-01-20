@@ -2,13 +2,10 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java and python
 - 🎶 I really like music 
-
+- 📺 Subscribe to my yt
 
 <p align="center">
-<a href="https://github.com/aryankeluskar">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyaygopal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyaygopal&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</a>
+	<a href = "https://www.youtube.com/channel/UC_U1wTxiXRR5ZD2RZkmp6FA?sub_confirmation=1">
+		<img height="150em" src="WhatsApp Image 2021-12-17 at 10.39.23 AM.jpeg" centre/>
+	<a/>
 </p>
-
-<img height="150em" src=""/>
