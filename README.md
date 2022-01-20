@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java and python
 - 🎶 I really like music 
-- 📺 Subscribe to my yt
+- 📺 Click on my pfp to subscribe to my yt
 
 <p align="center">
 	<a href = "https://www.youtube.com/channel/UC_U1wTxiXRR5ZD2RZkmp6FA?sub_confirmation=1">
