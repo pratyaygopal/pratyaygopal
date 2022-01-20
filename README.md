@@ -2,7 +2,9 @@
 - 👀 I’m interested in violin
 - 🌱 I’m currently learning java
 
-<!---
-Pop195pop/Pop195pop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<a href="https://github.com/aryankeluskar">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyaygopal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyaygopal&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
+</p>
