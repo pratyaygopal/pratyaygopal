@@ -11,6 +11,4 @@
 </a>
 </p>
 
-<video src = "Technical.mp4" >
-
-</video>
+<img height="150em" src=""/>
