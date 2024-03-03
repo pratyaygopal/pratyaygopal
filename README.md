@@ -1,4 +1,4 @@
-- <h1>👋 Hello Developers! </h1> 
+
 - I’m Pratyay Gopal 
 - 🪫 Im doing computer engineering at University of Illinois Urbana Champaign
 - 🌱 I’m currently learning systemverilog and creating projects in electronics for fun.
