@@ -1,6 +1,6 @@
 
 - I’m Pratyay Gopal 
-- 🪫 Im doing computer engineering at University of Illinois Urbana Champaign
+- 🪫 Computer engineering at University of Illinois Urbana Champaign
 - 🌱 I’m currently learning systemverilog and creating projects in electronics for fun.
 - 🔗 Linkedin: <a href="https://www.linkedin.com/in/pratyay-gopal">Pratyay Gopal</a> 
 - 🎵 I am a violinist and create music on FLStudio YouTube: <a href="https://www.youtube.com/@pratyaygopal">Pratyay Gopal</a>
